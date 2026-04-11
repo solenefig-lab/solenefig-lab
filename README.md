@@ -33,5 +33,5 @@ cybersécurité — gouvernance, conformité (RGPD / NIS2) et administration sys
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-solenefigueiredo-blue)](https://www.linkedin.com/in/solenefigueiredo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-solenefigueiredo-blue)](https://www.linkedin.com/in/solene-figueiredo/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-happygomotion.com-lightgrey)](https://www.happygomotion.com/fr/showcase)
