@@ -20,7 +20,7 @@ cybersécurité — gouvernance, conformité (RGPD / NIS2) et administration sys
 | Plateforme | Focus | Statut |
 |------------|-------|--------|
 | [OverTheWire Bandit](https://github.com/solenefig-lab/Cyber-Ops-Logbook/tree/main/bandit) | Linux · Permissions · Exposition de données | ✅ Complet (33/33) |
-| [OverTheWire Leviathan](https://github.com/solenefig-lab/Cyber-Ops-Logbook/tree/main/leviathan) | Binaires · SetUID · TOCTOU | 🔄 Level 4/8 |
+| [OverTheWire Leviathan](https://github.com/solenefig-lab/Cyber-Ops-Logbook/tree/main/leviathan) | Binaires · SetUID · TOCTOU | ✅ Complet (7/7) |
 | [OverTheWire Natas](https://github.com/solenefig-lab/Cyber-Ops-Logbook/tree/main/natas) | Web · Injection · OWASP Top 10 | 🔄 Level 12/34 |
 | [OverTheWire Krypton](https://github.com/solenefig-lab/Cyber-Ops-Logbook/tree/main/krypton) | Cryptographie · Vigenère · Stream cipher | 🔄 Level 6/7 |
 
