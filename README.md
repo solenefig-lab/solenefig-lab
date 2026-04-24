@@ -1,11 +1,23 @@
 # Solène Figueiredo — Cybersécurité · GRC · Infrastructure
 
-Senior Product Owner (10 ans · Renault · international) en spécialisation
-cybersécurité — gouvernance, conformité (RGPD / NIS2) et administration système.
+Spécialisation en cybersécurité après 10 ans en gestion de projet digital (Renault, environnement international).
+Mon profil articule pilotage stratégique et compréhension opérationnelle des infrastructures et des scénarios de menace.
 
 ---
 
-## Projets
+## Projet Phare : Stratégie GRC & Gouvernance
+
+SantéConnect — [Démarche GRC PME Fictive en e-santé](https://github.com/solenefig-lab/grc-pme-fictive)
+> Simulation structurée d’une démarche de cybersécurité pour une PME de e-santé.
+
+- Gouvernance : Définition d’une PSSI et analyse du contexte organisationnel
+- Gestion des risques : Analyse inspirée d’EBIOS RM et alignée avec ISO 27005, incluant priorisation et arbitrage des risques
+- Conformité : Audit RGPD et analyse d’impact des exigences de la Directive NIS 2
+- Livrables : Plan de traitement des risques, registre de traitements, PCA (en cours)
+
+## Projets Techniques (Support GRC)
+
+Analyse et démonstration technique des scénarios de risques.
 
 | Dépôt | Domaine | Statut |
 |-------|---------|--------|
@@ -26,10 +38,11 @@ cybersécurité — gouvernance, conformité (RGPD / NIS2) et administration sys
 
 ---
 
-## Stack
+## Stack et référentiels
 
-`Cisco IOS` `VLAN` `NAT` `Active Directory` `PowerShell` `Bash` `Python`
-`RGPD` `NIS2` `ISO 27001` `CWE` `OWASP` `Docker` `Linux`
+- GRC : EBIOS RM, ISO 27005, RGPD, Directive NIS 2
+- Environnements : Linux, Active Directory, réseaux (Cisco)
+- Automatisation : Bash, Python, PowerShell
 
 ---
 
