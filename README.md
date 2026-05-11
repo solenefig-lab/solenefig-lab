@@ -27,14 +27,26 @@ Analyse et démonstration technique des scénarios de risques.
 
 ---
 
-## Wargames & Labs
+## Cyber-Ops & Investigations (Hands-on)
+*Documentation technique orientée audit et vérification des contrôles. Chaque lab est analysé sous l'angle du risque métier (CWE) et de la conformité.*
 
-| Plateforme | Focus | Statut |
-|------------|-------|--------|
-| [OverTheWire Bandit](https://github.com/solenefig-lab/Cyber-Ops-Logbook/tree/main/bandit) | Linux · Permissions · Exposition de données | ✅ Complet (33/33) |
-| [OverTheWire Leviathan](https://github.com/solenefig-lab/Cyber-Ops-Logbook/tree/main/leviathan) | Binaires · SetUID · TOCTOU | ✅ Complet (7/7) |
-| [OverTheWire Natas](https://github.com/solenefig-lab/Cyber-Ops-Logbook/tree/main/natas) | Web · Injection · OWASP Top 10 | 🔄 Level 12/34 |
-| [OverTheWire Krypton](https://github.com/solenefig-lab/Cyber-Ops-Logbook/tree/main/krypton) | Cryptographie · Vigenère · Stream cipher | 🔄 Level 6/7 |
+| Plateforme | Focus & Domaines d'Audit | Statut / Preuves |
+| :--- | :--- | :--- |
+| **HackerDNA** | **Digital Forensics & SOC** : Analyse de logs, détection d'intrusions et sécurité des API (IDOR, RCE). | [ Profil](https://hackerdna.com/users/solene) / [Logbook](https://github.com/solenefig-lab/Cyber-Ops-Logbook/tree/main/HackerDNA) |
+|**OverTheWire** | **Infrastructure & Web** : IAM, durcissement Linux (PoLP) et OWASP Top 10. | [Logbook](https://github.com/solenefig-lab/Cyber-Ops-Logbook/tree/main/OverTheWire) |
+
+---
+
+#### 📊 Focus Technique & GRC
+*   **DFIR (Forensics) :** Analyse de traces post-compromission, détection de Web Shells et investigation de logs (Challenges *Log Hunter*, *FiPloit*).
+*   **Audit d'Architecture :** Vérification des configurations SSH, escalade de privilèges (LPE) et analyse de surface d'exposition (Nmap, FTP, Cron).
+*   **Sécurité Applicative :** Exploitation de vulnérabilités critiques (LFI, RCE, IDOR) et audit de fuites de secrets (Dépôts `.git`, Code source).
+
+#### 📈 Progression Wargames
+- **Bandit** (Linux) : ✅ **33/33**
+- **Leviathan** (PrivEsc) : ✅ **7/7**
+- **Natas** (Web Security) : 🔄 **Level 12/34**
+- **Krypton** (Cryptographie) : 🔄 **Level 6/7**
 
 ---
 
