@@ -27,7 +27,7 @@ Analyse et démonstration technique des scénarios de risques.
 
 ---
 
-## Cyber-Ops & Investigations (Hands-on)
+## Cyber-Ops & Investigations ([Hands-on](https://github.com/solenefig-lab/Cyber-Ops-Logbook/blob/main/README.md))
 *Documentation technique orientée audit et vérification des contrôles. Chaque lab est analysé sous l'angle du risque métier (CWE) et de la conformité.*
 
 | Plateforme | Focus & Domaines d'Audit | Statut / Preuves |
@@ -43,6 +43,10 @@ Analyse et démonstration technique des scénarios de risques.
 *   **Sécurité Applicative :** Exploitation de vulnérabilités critiques (LFI, RCE, IDOR) et audit de fuites de secrets (Dépôts `.git`, Code source).
 
 #### 📈 Progression Wargames
+#### HackerDna
+- CTF (Labs et Défis): ✅ **20 Terminés**
+
+#### OverTheWire
 - **Bandit** (Linux) : ✅ **33/33**
 - **Leviathan** (PrivEsc) : ✅ **7/7**
 - **Natas** (Web Security) : 🔄 **Level 12/34**
