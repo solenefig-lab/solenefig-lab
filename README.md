@@ -1,7 +1,7 @@
 # Solène Figueiredo — Cybersécurité · GRC · Infrastructure
 
-Spécialisation en cybersécurité après 10 ans en gestion de projet digital (Renault, environnement international).
-Mon profil articule pilotage stratégique et compréhension opérationnelle des infrastructures et des scénarios de menace.
+Consultante en gouvernance digitale et transformation, avec plus de 10 ans d’expérience dans le pilotage de programmes internationaux mêlant data, IT et coordination métier dans des environnements complexes multi-pays.
+Positionnement GRC fondé sur la gouvernance des données, l’harmonisation internationale, la structuration de processus et l’alignement IT–métier.
 
 ---
 
