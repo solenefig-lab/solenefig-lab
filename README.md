@@ -7,13 +7,21 @@ Positionnement GRC fondé sur la gouvernance des données, l’harmonisation int
 
 ## Projet Phare : Stratégie GRC & Gouvernance
 
-SantéConnect — [Démarche GRC PME Fictive en e-santé](https://github.com/solenefig-lab/grc-pme-fictive)
-> Simulation structurée d’une démarche de cybersécurité pour une PME de e-santé.
-
-- Gouvernance : Définition d’une PSSI et analyse du contexte organisationnel
-- Gestion des risques : Analyse inspirée d’EBIOS RM et alignée avec ISO 27005, incluant priorisation et arbitrage des risques
-- Conformité : Audit RGPD et analyse d’impact des exigences de la Directive NIS 2
+**SantéConnect** — [Démarche GRC PME Fictive en e-santé](https://github.com/solenefig-lab/grc-pme-fictive)
+> Simulation structurée d'une démarche de cybersécurité pour une PME de e-santé.
+- Gouvernance : Définition d'une PSSI et analyse du contexte organisationnel
+- Gestion des risques : Analyse inspirée d'EBIOS RM et alignée avec ISO 27005, incluant priorisation et arbitrage des risques
+- Conformité : Audit RGPD et analyse d'impact des exigences de la Directive NIS 2
 - Livrables : Plan de traitement des risques, registre de traitements, PCA (en cours)
+
+**BanqueConnect** — [Gestion de crise cyber · Néobanque fictive](https://github.com/solenefig-lab/grc-banqueconnect)
+> Simulation d'une cybercrise majeure (exfiltration de données via fournisseur tiers) pour une néobanque européenne fictive.
+- Gestion de crise : timeline annotée J-3 à J+30 · cellule de crise · arbitrages COMEX documentés
+- Conformité : application opérationnelle de DORA (notification ACPR) et RGPD (notification CNIL) sous contrainte de délais
+- Communication : présentation COMEX en séance portée par le RSSI · réserve formelle documentée
+- Livrables : timeline de crise · présentation COMEX (slides + notes orateur) · README opérationnel
+
+---  
 
 ## Projets Techniques (Support GRC)
 
@@ -56,9 +64,9 @@ Analyse et démonstration technique des scénarios de risques.
 
 ## Stack et référentiels
 
-- GRC : EBIOS RM, ISO 27005, RGPD, Directive NIS 2
-- Environnements : Linux, Active Directory, réseaux (Cisco)
-- Automatisation : Bash, Python, PowerShell
+- GRC : EBIOS RM · ISO 27005 · RGPD · DORA · DSP2 · Directive NIS 2
+- Environnements : Linux · Active Directory · réseaux (Cisco)
+- Automatisation : Bash · Python · PowerShell
 
 ---
 
