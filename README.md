@@ -63,4 +63,3 @@ Analyse et démonstration technique des scénarios de risques.
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-solenefigueiredo-blue)](https://www.linkedin.com/in/solene-figueiredo/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-happygomotion.com-lightgrey)](https://www.happygomotion.com/fr/showcase)
