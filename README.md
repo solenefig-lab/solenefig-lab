@@ -8,11 +8,11 @@ Positionnement GRC fondé sur la gouvernance des données, l’harmonisation int
 ## Projet Phare : Stratégie GRC & Gouvernance
 
 **SantéConnect** — [Démarche GRC PME Fictive en e-santé](https://github.com/solenefig-lab/grc-pme-fictive)
-> Simulation structurée d'une démarche de cybersécurité pour une PME de e-santé.
-- Gouvernance : Définition d'une PSSI et analyse du contexte organisationnel
-- Gestion des risques : Analyse inspirée d'EBIOS RM et alignée avec ISO 27005, incluant priorisation et arbitrage des risques
-- Conformité : Audit RGPD et analyse d'impact des exigences de la Directive NIS 2
-- Livrables : Plan de traitement des risques, registre de traitements, PCA (en cours)
+> Simulation structurée d'une démarche de cybersécurité de bout en bout pour une PME e-santé, de la gouvernance à l'appréciation des risques selon la méthode EBIOS Risk Manager (ANSSI).
+- Gouvernance : PSSI, analyse du contexte organisationnel, matrice RBAC
+- Conformité : Registre des traitements et AIPD RGPD, hébergement HDS, Déclaration d'Applicabilité ISO 27001 (93 contrôles)
+- Résilience & NIS2 : Analyse d'impact NIS2 (supply chain via partenaire CHU), PCA/PRA (RTO/RPO), plan d'action conformité
+- Gestion des risques : Plan de traitement des risques (ISO 27001 cl. 6.1.3) et appréciation EBIOS Risk Manager (cadrage, socle de sécurité, scénario de compromission API)
 
 **BanqueConnect** — [Gestion de crise cyber · Néobanque fictive](https://github.com/solenefig-lab/grc-banqueconnect)
 > Simulation d'une cybercrise majeure (exfiltration de données via fournisseur tiers) pour une néobanque européenne fictive.
